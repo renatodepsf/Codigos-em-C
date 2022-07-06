@@ -111,3 +111,4 @@ void desempilhar_pilha() {
 void menu() {
 	printf("\n****DIGITE A OPÇÃO**** \n\n# 1 - Empilhar pratos\n# 2 - Desempilhar pratos\n# 0 - Sair\n\n# ");
 }
+
