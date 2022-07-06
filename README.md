@@ -1,2 +1,2 @@
 # Mycodes_C
- Códigos em linguagem C
+ Meus códigos em linguagem C
